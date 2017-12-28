@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>846676071414-hjuqkci2r8d007mgdenkn3ipu30lv2jj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.846676071414-hjuqkci2r8d007mgdenkn3ipu30lv2jj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyZHgtvkOwlskHaufRgvpUo0A8nvpe2Ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>846676071414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arham.yoga</string>
+	<key>PROJECT_ID</key>
+	<string>arham-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arham-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:846676071414:ios:68a165e0d68ff482</string>
+	<key>DATABASE_URL</key>
+	<string>https://arham-app.firebaseio.com</string>
+</dict>
+</plist>
